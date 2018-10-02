@@ -19,12 +19,9 @@ li {
   list-style: none;
 }
 
-/* ここからCSSを記述してください */
 body {
   font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
 }
-
-
 
 .header{
     
@@ -39,9 +36,7 @@ body {
     font-size:36px;
 }
 
-
 .header-list{
-
 
 }
 
@@ -51,3 +46,29 @@ float:left;
   color:black;
   font-size:25px;
 }
+
+.main{
+    padding: 10px 20px;
+}
+
+.copy-container{
+
+}
+
+.copy-container h1{
+    font-size:40px;
+}
+
+.copy-container h2{
+    font-size: 30px;
+    color:blue;
+    padding:20px 0px;
+}
+
+.copy-container span{
+    color:red;
+}
+
+
+
+
