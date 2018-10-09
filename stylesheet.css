@@ -98,3 +98,24 @@ input,textarea{
 .contact-submit{
     padding:10px 0px;
 }
+
+.footer{
+      background-color: #26d0c9;
+      height:90px;
+      padding:20px;
+}
+
+.footer-logo{
+      color:white;
+      font-size:25px;
+      float:left;
+}
+
+.footer-list{
+     float:right;  
+     padding:10px ;
+}
+
+.footer-list li{
+         padding:5px 0px;
+}
