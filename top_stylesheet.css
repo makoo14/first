@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018/10/11, 11:04:32
+    Author     : まこと
+*/
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+.top-wrapper{
+        text-align: center;
+        background-image: url(/img/DSC_0244.JPG);
+        background-size: cover;
+        height:400px;
+        color:white;
+}
+
+.top-wrapper h1{
+    padding:20px 0px;
+}
+
+.top-wrapper h2{
+    padding:40px 0px;
+    opacity:0.8;
+}
+
+
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+
+.head {
+  background-color: #239b76;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.hand {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.foot {
+  background-color: #55acee;
+}
