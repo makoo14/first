@@ -24,12 +24,41 @@ body {
   font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
 }
 
+.header{
+    background-color: black;
+    height:50px;
+    color:red;
+    padding:0px 20px;
+
+}
+
+.header-logo{
+    float:left; 
+    font-size:30px;
+    padding:10px 10px;
+}
+
+.header-list{
+    float:right;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header-list li{
+   float:right;
+   padding:10px 10px;
+
+}
+
+
+
 .top-wrapper{
         text-align: center;
         background-image: url(/img/DSC_0244.JPG);
         background-size: cover;
         height:400px;
         color:white;
+        padding-top:100px;
+
 }
 
 .top-wrapper h1{
@@ -41,8 +70,6 @@ body {
     opacity:0.8;
 }
 
-
-
 .btn {
   padding: 8px 24px;
   color: white;
@@ -50,7 +77,6 @@ body {
   opacity: 0.8;
   border-radius: 4px;
 }
-
 
 .head {
   background-color: #239b76;
