@@ -29,7 +29,6 @@ body {
     height:50px;
     color:red;
     padding:0px 20px;
-
 }
 
 .header-logo{
@@ -46,7 +45,6 @@ body {
 .header-list li{
    float:right;
    padding:10px 10px;
-
 }
 
 
@@ -91,4 +89,62 @@ body {
 
 .foot {
   background-color: #55acee;
+}
+
+.middle-wrapper{
+      text-align: center;
+}
+
+.middle-title h3{
+    padding:30px 0px;
+}
+
+.arts{
+}
+
+.art{
+     width:50%;
+     float:left;
+}
+
+.art-icon{
+    color:red;
+  position: relative;    
+}
+
+.art-icon img{
+    width:75%;
+}
+
+.art-icon p{
+  position: absolute;    
+    top: 44%;
+    width: 100%;
+    color: red;
+}
+
+.last-wrapper{
+      text-align: center;
+      padding:30px;
+}
+
+.last-wrapper h4{
+      padding-top:250px;
+      padding-bottom:30px;
+}
+
+.btn-back{
+    padding:30px;
+    cursor: pointer;
+    box-shadow: 0 3px red;
+    background-color: #5dca88;    
+}
+
+.footer{
+    background-color:black;
+    height:50px;
+}
+
+.footer-logo{
+    color:white;
 }
