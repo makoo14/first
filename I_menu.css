@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018/10/17, 16:19:27
+    Author     : まこと
+*/
+
+@charset "UTF-8";
+
+.menu{
+    padding: 90px 0 60px;
+    color:#007d7d;
+}
+
+.menu-card{
+    width:33%;
+    margin-top: 35px;
+}
+
+.menu-card-inner{
+    padding: 25px 30px;
+    background-color: #edfbff;
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px #00fa00;
+    text-align: center;
+    margin: 0 20px;
+}
+
+.menu-image{
+    width:100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.menu-title{
+    margin-bottom: 8px;
+}
+
+.menu-text{
+    font-size: 14px;
+}
+
+.menu-card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018/10/18, 12:38:55
+    Author     : まこと
+*/
+
+@charset "UTF-8";
+
+.contact{
+    padding: 90px 0 60px;
+    color: #bf00bf;
+}
+
+.contact-title{
+    margin-bottom: 15px;
+}
+
+.contact-form h3{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #bf00bf;
+}
+
+input,textarea{
+    font-size: 15px;
+    width: 400px;
+    padding: 2px 4px;
+}
+
+.submit-button{
+    margin-top: 20px;
+    font-size: 18px;
+    width: 80px;
+}
